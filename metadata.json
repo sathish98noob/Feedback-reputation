@@ -1,0 +1,5 @@
+{
+  "name": "Customer Feedback Flow",
+  "description": "A web application that intelligently collects customer feedback. Low ratings (1-3 stars) prompt a private feedback form, while high ratings (4-5 stars) encourage public reviews. The private feedback is analyzed by the Gemini API.",
+  "requestFramePermissions": []
+}
